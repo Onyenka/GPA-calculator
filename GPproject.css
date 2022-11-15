@@ -1,0 +1,29 @@
+ body{
+	background: url(../img/);
+	width:100%;
+	text-align: center;
+ }
+
+ h1{
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 50px;
+	color: cadetblue;
+
+ }
+
+ p{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 20px;}
+
+input{
+		text-align: center;
+	}
+
+#gpa{
+color: blueviolet;
+ }
+
+ ul{
+	list-style: none;
+ }
